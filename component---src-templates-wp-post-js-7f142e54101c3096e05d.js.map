@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-templates-wp-post-js-7f142e54101c3096e05d.js","mappings":"gIAMA,UAJe,WACb,OAAO","sources":["webpack://primepark/./src/templates/WpPost.js"],"sourcesContent":["import React from \"react\"\n\nconst WpPost = () => {\n  return <h1>My First Page</h1>\n}\n\nexport default WpPost"],"names":[],"sourceRoot":""}
