@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprimepark=self.webpackChunkprimepark||[]).push([[706],{2573:function(e,r,n){n.r(r);var t=n(7294);r.default=function(){return t.createElement("h1",null,"My First Page")}}}]);
+//# sourceMappingURL=component---src-templates-wp-post-js-7f142e54101c3096e05d.js.map
